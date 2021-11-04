@@ -183,7 +183,7 @@ if __name__ == '__main__':
     camera_list = ['rgb_left','rgb_left_up','rgb_up']
 
 
-    src_dir_dict = {'sanbao_test':'/data/weiyu.li/DMSData/FatigueView/sanbao_test_video',
+    src_dir_dict = {'sanbao_test':'/data/weiyu.li/DMSData/FatigueView/real_test_video',
 
     }
 
