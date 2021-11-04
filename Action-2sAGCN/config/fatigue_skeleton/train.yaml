@@ -1,0 +1,39 @@
+work_dir: ./work_dir/kinetics/agcn_bone
+model_saved_name: ./weights/fatigue_all
+
+# feeder
+feeder: feeders.fatigue_feeder.Feeder
+train_feeder_args:
+  random_choose: True
+  random_move: True
+  window_size: 200
+  data_path: ./data/train
+  debug: False
+
+test_feeder_args:
+  data_path: ./data/train
+
+# model
+model: model.agcn.Model
+model_args:
+  num_class: 2
+  num_person: 1
+  num_point: 17
+  in_channels: 2
+  graph: graph.fatigue.Graph
+  graph_args:
+    labeling_mode: 'spatial'
+
+#optim
+weight_decay: 0.0001
+base_lr: 0.1
+step: [45, 55]
+
+# training
+device: [0, 1, 2, 3]
+batch_size: 128
+test_batch_size: 256
+num_epoch: 65
+nesterov: True
+
+

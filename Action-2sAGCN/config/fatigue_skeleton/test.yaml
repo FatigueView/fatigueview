@@ -1,0 +1,30 @@
+# feeder
+feeder: feeders.fatigue_feeder.Feeder
+test_feeder_args:
+  data_path: ./data/beelab_test/ir_down
+  debug: False
+
+
+
+# model
+model: model.agcn.Model
+model_args:
+  num_class: 2
+  num_person: 1
+  num_point: 17
+  in_channels: 2
+  graph: graph.fatigue.Graph
+  graph_args:
+    labeling_mode: 'spatial'
+
+
+# test 
+phase: test
+device: 0
+test_batch_size: 128
+weights: /home/users/zhenyu.yang/data/FatigueBaseLine/Shi2019TAG/weights/fatigue_all-64-975.pt
+
+
+work_dir: ./work_dir/kinetics/agcn_test_bone
+model_saved_name: ./runs/ki_agcn_test_bone
+save_score: True
