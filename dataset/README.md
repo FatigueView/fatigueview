@@ -11,9 +11,15 @@ XXXXX
 
 # Managers
  - Chenyu Zhu (Soochow University, xxxx@xxxxxx)
- - XXXXXX
  - Cong Yang (Soochow University, yangcong955@126.com)
- - Weiyu Li (Horizon Robotics, weiyu.li@horizon.ai)
  
+# Contributors
+ - Weiyu Li (Horizon Robotics)
+ - Zhenyu Yang (Horizon Robotics)
+ - John See (Heriot-Watt University)
+ - Xinyu Yang (Soochow University)
+ - Cong Qian (Soochow University)
+ - Ruoxi Sun (Soochow University)
+ - Junqi Xu (Soochow University)
  
 # Citation
