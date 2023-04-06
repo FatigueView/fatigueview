@@ -23,3 +23,15 @@ XXXXX
  - Junqi Xu (Soochow University)
  
 # Citation
+```
+@article{Yang2022FatigueView,
+author = {Yang, Cong and Yang, Zhenyu and Li, Weiyu and See, John},
+journal = {IEEE Transactions on Intelligent Transportation Systems}
+title = {FatigueView: A Multi-Camera Video Dataset for Vision-based Drowsiness Detection},
+year = {2023},
+volume = {24},
+number = {1},
+pages = {233-246},
+doi = {10.1109/TITS.2022.3216017},
+}
+```
