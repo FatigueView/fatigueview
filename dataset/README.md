@@ -4,7 +4,7 @@ FatigueView is a new large-scale dataset for vision-based drowsiness detection, 
 We are pleased to announce that FatigueView is ready to download.
 
 # Original videos
-Link: https://pan.baidu.com/s/1QWuZdNjactMTv_oDNNC-WQ 
+Link: https://pan.baidu.com/s/1QWuZdNjactMTv_oDNNC-WQ  <br>
 Code: 35ic
 
 # Annotations
@@ -13,26 +13,26 @@ ${ROOT}
 |
 └───────Fatigueview/    
         |
-        ├───────Test/
-        |       |
-        |       ├───────Fatigue/ 
-        |       |       |            
-        |       |       ├───────id_0075/    \n
-        |       |       |       ├───────rgb_up.mp4
-        |       |       |       ├───────rgb_left_up.mp4
-        |       |       |       ├───────rgb_left.mp4
-        |       |       |       ├───────rgb_front.mp4
-        |       |       |       ├───────rgb_down.mp4
-        |       |       |       ├───────ir_up.mp4
-        |       |       |       ├───────ir_left_up.mp4
-        |       |       |       ├───────ir_left.mp4
-        |       |       |       ├───────ir_front.mp4
-        |       |       |       └───────ir_down.mp4
-        |       |       ├───────id_0076/
-        |       |       ├───────id_0077/
-        |       |       ├───────id_0078/
-        |       |       ├───────id_0079/
-        |       |       ├───────id_0080/
+        ├───────Test/ <br>
+        |       | <br>
+        |       ├───────Fatigue/  <br>
+        |       |       |          <br>   
+        |       |       ├───────id_0075/    <br>
+        |       |       |       ├───────rgb_up.mp4 <br>
+        |       |       |       ├───────rgb_left_up.mp4 <br>
+        |       |       |       ├───────rgb_left.mp4 <br>
+        |       |       |       ├───────rgb_front.mp4 <br>
+        |       |       |       ├───────rgb_down.mp4 <br>
+        |       |       |       ├───────ir_up.mp4 <br>
+        |       |       |       ├───────ir_left_up.mp4 <br>
+        |       |       |       ├───────ir_left.mp4 <br>
+        |       |       |       ├───────ir_front.mp4 <br>
+        |       |       |       └───────ir_down.mp4 <br>
+        |       |       ├───────id_0076/ <br>
+        |       |       ├───────id_0077/ <br>
+        |       |       ├───────id_0078/ <br>
+        |       |       ├───────id_0079/ <br>
+        |       |       ├───────id_0080/ <br>
         |       |       ├───────id_0081/
         |       |       ├───────id_0082/
         |       |       ├───────id_0083/
@@ -137,3 +137,4 @@ pages = {233-246},
 doi = {10.1109/TITS.2022.3216017},
 }
 ```
+ 
