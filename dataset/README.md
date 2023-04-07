@@ -10,7 +10,7 @@ XXXXX
 
 
 # Managers
- - Chenyu Zhu (Soochow University, xxxx@xxxxxx)
+ - Chenyu Zhu (Soochow University, zhuchenyusebastian@gmail.com)
  - Cong Yang (Soochow University, yangcong955@126.com)
  
 # Contributors
