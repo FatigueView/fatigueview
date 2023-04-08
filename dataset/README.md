@@ -12,7 +12,7 @@ You can download our dataset directly through Baidu Cloud. <br>
 # Annotations
 This dataset contains 1,000+ hours of videos. <br>
 The video names are the same in all the folders with the format 'id_00XX'. <br>
-The format of the dataset folder is as follows. <br>
+The structure of the dataset folder is as follows. <br>
 
 ```
 ${ROOT}
