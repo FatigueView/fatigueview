@@ -17,7 +17,7 @@ The structure of the dataset folder is as follows. <br>
 ```
 ${ROOT}
 |
-└───────fatigueview/    
+└───────FatigueView/    
         | 
         ├───────Test/ 
         |       | 
