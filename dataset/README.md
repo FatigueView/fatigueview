@@ -3,11 +3,20 @@ FatigueView is a new large-scale dataset for vision-based drowsiness detection, 
 # News
 We are pleased to announce that FatigueView is ready to download.
 
+- [x] <b>2023-04-08</b>: Yawning is ready to download.
+- [x] Support [distributed data parallel training](https://github.com/pytorch/examples/tree/master/distributed/ddp)
+- [x] Tensorboard
+- [x] ResNet-based **K**eypoint **F**eature **P**yramid **N**etwork (KFPN) (Using by setting `--arch fpn_resnet_18`)
+- [ ] Use images from both left and right cameras (Control by setting the `use_left_cam_prob` argument)
+- [ ] Release pre-trained models 
+
 # Original videos
-Link: https://pan.baidu.com/s/1QWuZdNjactMTv_oDNNC-WQ  <br>
+🔗 Link: https://pan.baidu.com/s/1QWuZdNjactMTv_oDNNC-WQ  <br>
 Code: 35ic
 
 # Annotations
+This dataset contains 1,000+ hours of videos.
+
 
 ```
 ${ROOT}
