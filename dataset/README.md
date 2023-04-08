@@ -7,8 +7,7 @@ We are pleased to announce that FatigueView is ready to download.
 
 # Original videos
 You can download our dataset directly through Baidu Cloud. <br>
-🔗 Link: https://pan.baidu.com/s/1QWuZdNjactMTv_oDNNC-WQ  <br>
-Code: 35ic
+🔗 Link: https://pan.baidu.com/s/1QWuZdNjactMTv_oDNNC-WQ  Code: 35ic
 
 # Annotations
 This dataset contains 1,000+ hours of videos. <br>
