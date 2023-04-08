@@ -2,8 +2,8 @@ FatigueView is a new large-scale dataset for vision-based drowsiness detection, 
 
 # News
 We are pleased to announce that FatigueView is ready to download.
-- [ ] <b>2023-04-08</b>: Realease yawning.json
-- [x] Realease blinking.json 
+- [x] <b>2023-04-08</b>: Realease yawning.json
+- [ ] Realease blinking.json 
 
 # Original videos
 You can download our dataset directly through Baidu Cloud. <br>
