@@ -1,6 +1,6 @@
 # FatigueView
 
-Due to the low efficiency of the email application, we are pleased to announce that FatigueView is ready to download directly. You can download the original videos and corresponding annotations (JSON files) directly from https://github.com/FatigueView/fatigueview/tree/main/dataset. Along with the approval of licenses, we will release (publicly available) annotations one by one at this address. 
+Due to the low efficiency of the email application, we are pleased to announce that FatigueView is ready to download directly. You can download the original videos and corresponding annotations (JSON files) directly from https://github.com/FatigueView/fatigueview/tree/main/dataset. Along with the approval of licenses, we will release (publicly available) the rest annotations one by one at this address. 
 
 # FatigueTree
 
