@@ -118,7 +118,7 @@ ${ROOT}
 
 
 # Managers
- - Chenyu Zhu (Soochow University, zhuchenyusebastian@gmail.com)
+ - Chenyu Zhu (Soochow University, zhuchyusebastian@gmail.com)
  - Cong Yang (Soochow University, yangcong955@126.com)
  
 # Contributors
